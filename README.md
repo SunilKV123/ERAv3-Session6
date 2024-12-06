@@ -1,4 +1,4 @@
-
+[![ML Pipeline](https://github.com/SunilKV123/ERAv3-Session6/actions/workflows/ml_pipeline.yml/badge.svg)](https://github.com/SunilKV123/ERAv3-Session6/actions/workflows/ml_pipeline.yml)
 
 # MNIST CNN Model with CI/CD Pipeline
 
